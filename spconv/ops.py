@@ -53,7 +53,7 @@ def get_indice_pairs(indices,
              subm=False,
              transpose=False,
              grid=None,
-             use_hash=True):
+             use_hash=False):
     ndim = indices.shape[1] - 1
     if not isinstance(ksize, (list, tuple)):
         ksize = [ksize] * ndim

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c21a9b1-4027-4980-ab8e-70691d31f9c5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/spconv/conv.py" beforeDir="false" afterPath="$PROJECT_DIR$/spconv/conv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spconv/ops.py" beforeDir="false" afterPath="$PROJECT_DIR$/spconv/ops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spconv/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/spconv/utils/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="79ead585-eafb-4ce4-ba28-82a91a24485e" />
+  <component name="ProjectId" id="1XS5dHPQhB92qJAB9aTR3ESeLF2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c21a9b1-4027-4980-ab8e-70691d31f9c5" name="Default Changelist" comment="" />
+      <created>1581026740551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581026740551</updated>
+      <workItem from="1581026742721" duration="786000" />
+      <workItem from="1581027831284" duration="3450000" />
+      <workItem from="1581032956947" duration="383000" />
+      <workItem from="1581033340796" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="513" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581033337669">
+      <screen x="0" y="216" width="1920" height="1080" />
+    </state>
+    <state x="743" y="513" width="424" height="484" key="FileChooserDialogImpl/1920.0.2560.1440/0.216.1920.1080@0.216.1920.1080" timestamp="1581033337669" />
+    <state x="624" y="427" width="662" height="655" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581033359355">
+      <screen x="0" y="216" width="1920" height="1080" />
+    </state>
+    <state x="624" y="427" width="662" height="655" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.2560.1440/0.216.1920.1080@0.216.1920.1080" timestamp="1581033359355" />
+    <state x="608" y="486" width="704" height="538" key="find.popup" timestamp="1581027843481">
+      <screen x="0" y="216" width="1920" height="1080" />
+    </state>
+    <state x="608" y="486" width="704" height="538" key="find.popup/1920.0.2560.1440/0.216.1920.1080@0.216.1920.1080" timestamp="1581027843481" />
+  </component>
+</project>

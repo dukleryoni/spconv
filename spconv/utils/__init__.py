@@ -104,6 +104,7 @@ def points_to_voxel(points,
                 height_high_threshold)
             voxel_mask = voxel_mask.astype(np.bool_)
             coors_ = coors[voxel_mask]
+            voxel_num = coors_.shape[0]
             if pad_output:
                 res["coordinates"][:voxel_num] = coors_
                 res["voxels"][:voxel_num] = voxels[voxel_mask]
@@ -121,7 +122,6 @@ def points_to_voxel(points,
                 res["voxels"] = voxels[voxel_mask]
                 res["num_points_per_voxel"] = num_points_per_voxel[voxel_mask]
                 res["voxel_point_mask"] = voxel_point_mask[voxel_mask]
-            voxel_num = coors_.shape[0]
         else:
             voxel_num = points_to_voxel_3d_np(
                 points, voxels, voxel_point_mask, coors,
