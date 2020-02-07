@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c21a9b1-4027-4980-ab8e-70691d31f9c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/spconv/conv.py" beforeDir="false" afterPath="$PROJECT_DIR$/spconv/conv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spconv/ops.py" beforeDir="false" afterPath="$PROJECT_DIR$/spconv/ops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spconv/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/spconv/utils/__init__.py" afterDir="false" />
-    </list>
+    <list default="true" id="4c21a9b1-4027-4980-ab8e-70691d31f9c5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +49,7 @@
       <workItem from="1581026742721" duration="786000" />
       <workItem from="1581027831284" duration="3450000" />
       <workItem from="1581032956947" duration="383000" />
-      <workItem from="1581033340796" duration="54000" />
+      <workItem from="1581033340796" duration="669000" />
     </task>
     <servers />
   </component>
